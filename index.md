@@ -3,7 +3,7 @@ layout: home
 title: Homepage
 ---
 
-### Joshua Passmore
+## Joshua Passmore
 
 ~ attempting to turn coffee into theorems ~
 
