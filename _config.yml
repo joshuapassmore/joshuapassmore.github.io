@@ -16,4 +16,6 @@ plugins:
 # Markdown processor
 markdown: kramdown
 
+feed:
+  enabled: false
 
