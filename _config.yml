@@ -1,21 +1,32 @@
-# Jekyll configuration for GitHub Pages
+# Beautiful Jekyll theme configuration
 title: Joshua Passmore
-description: Attempting to turn coffee into theorems
-author: "If you want to get in touch, then send me a mail:"
+description: A pure mathematics PhD student exploring pointfree topology and mathematical structures
+author: Joshua Passmore
 email: josh@aims.ac.za
 url: https://joshuapassmore.github.io
 baseurl: ""
 
 # Theme
-theme: minima
+remote_theme: daattali/beautiful-jekyll@6.0
 
 # Plugins
 plugins:
-  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
 
 # Markdown processor
 markdown: kramdown
 
+# Pagination
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Social media settings (optional - customize as needed)
+social-network-links:
+  email: "josh@aims.ac.za"
+  github: joshuapassmore
+  # Add more social links as desired
+
+# Feed settings
 feed:
   enabled: false
-
