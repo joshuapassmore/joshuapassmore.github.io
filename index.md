@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: Homepage
 ---
 
 <img src="photo.png" alt="Joshua Passmore" width="225">
@@ -10,8 +10,8 @@ Hello! I'm **Josh** (he/him), a pure mathematics PhD student based at the <a hre
 
 
 
-<!-- ## Latest Posts
+## Latest Posts
 
 {% for post in site.posts limit:5 %}
   * [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %d, %Y" }}
-{% endfor %} -->
+{% endfor %}
