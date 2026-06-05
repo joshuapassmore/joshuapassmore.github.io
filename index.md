@@ -2,7 +2,7 @@
 layout: home
 title: Homepage
 ---
-## Joshua Passmore
+### Joshua Passmore
 
 ~ attempting to turn coffee into theorems ~
 
@@ -17,3 +17,10 @@ I work as a full-time teaching assistant at [AIMS SA](https://aims.ac.za/) for t
 {% for post in site.posts limit:5 %}
   * [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
+
+## Publications
+* The foundations of locale theory
+
+## Presentations
+
+## Teaching experience
