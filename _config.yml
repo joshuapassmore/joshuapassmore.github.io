@@ -1,8 +1,8 @@
 # Jekyll configuration for GitHub Pages
 title: Joshua Passmore
-description: PhD student in pure mathematics and TA at the African Institute for Mathematical Sciences (AIMS) South Africa
+description: PhD student in pure mathematics
 author: Joshua Passmore
-email: josh@aims.ac.za
+email: josh at aims dot ac dot za
 url: https://joshuapassmore.github.io
 baseurl: ""
 
