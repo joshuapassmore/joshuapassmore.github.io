@@ -1,8 +1,8 @@
 # Jekyll configuration for GitHub Pages
 title: Joshua Passmore
 #description: PhD student in pure mathematics
-author: "If you want to get in touch, then send me a mail: josh at aims dot ac dot za"
-# email: josh at aims dot ac dot za
+#author: "If you want to get in touch, then send me a mail: josh at aims dot ac dot za"
+email: josh@aims.ac.za
 url: https://joshuapassmore.github.io
 baseurl: ""
 
