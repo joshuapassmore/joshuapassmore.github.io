@@ -16,3 +16,10 @@ plugins:
 
 # Markdown processor
 markdown: kramdown
+
+# Feed settings
+feed:
+  path: feed.xml
+  collections:
+    posts:
+      path: /feed/posts.xml
