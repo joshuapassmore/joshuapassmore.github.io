@@ -11,15 +11,9 @@ theme: minima
 
 # Plugins
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
 
 # Markdown processor
 markdown: kramdown
 
-# Feed settings
-feed:
-  path: feed.xml
-  collections:
-    posts:
-      path: /feed/posts.xml
+
