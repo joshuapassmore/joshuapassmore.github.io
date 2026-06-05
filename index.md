@@ -5,7 +5,7 @@ title: Welcome
 
 # Welcome to My Mathematics Website
 
-Hello! I'm **Joshua Passmore**, a pure mathematics PhD student. This website is my space to share my passion for mathematics.
+Hello! I'm **Josh**, a pure mathematics PhD student based at the University of the Western Cape and the African Institute for Mathematical Sciences (AIMS). My research is based in pointfree topology... 
 
 ## Latest Posts
 
