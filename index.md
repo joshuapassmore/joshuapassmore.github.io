@@ -1,3 +1,7 @@
+---
+layout: home
+title: Homepage
+---
 <style>
   main {
     margin: 20px;
@@ -7,10 +11,6 @@
   }
 </style>
 
----
-layout: home
-title: Homepage
----
 ### Joshua Passmore
 
 ~ attempting to turn coffee into theorems ~
