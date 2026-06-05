@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My first post"
-date: 2026-06-05
+title: "Joshua -- a brief introduction"
+date: 2026-06-06
 categories: [announcements]
 ---
 
