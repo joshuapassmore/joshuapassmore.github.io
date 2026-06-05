@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Joshua -- a brief introduction"
+title: "Joshua –– a brief introduction"
 date: 2026-06-05
 categories: [announcements]
 ---
