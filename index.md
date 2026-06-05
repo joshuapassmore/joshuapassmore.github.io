@@ -19,7 +19,8 @@ I work as a full-time teaching assistant at [AIMS SA](https://aims.ac.za/) for t
 {% endfor %}
 
 ## Publications
-* The foundations of locale theory
+* The foundations of locale theory (MSc thesis – 2025)
+* Frames and ideals in pointfree topology (Honours thesis – 2022)
 
 ## Presentations
 
