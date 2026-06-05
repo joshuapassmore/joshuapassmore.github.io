@@ -2,7 +2,7 @@
 layout: post
 title: "Joshua –– a brief introduction"
 date: 2026-06-05
-description: "Intorducing myself and my research"
+description: "Introducing myself and my research"
 categories: [announcements]
 ---
 
