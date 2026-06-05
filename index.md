@@ -1,3 +1,12 @@
+<style>
+  main {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #0099ff;
+    border-radius: 10px;
+  }
+</style>
+
 ---
 layout: home
 title: Homepage
