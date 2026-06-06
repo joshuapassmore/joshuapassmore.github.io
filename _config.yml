@@ -17,6 +17,8 @@ plugins:
 
 # Markdown processor
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
 
 # Pagination for blog posts
 paginate: 5
