@@ -1,13 +1,22 @@
-<!-- MathJax for LaTeX rendering -->
+<!-- Custom CSS for margins and borders -->
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="/favicon.png">
+
+<!-- MathJax 3 Configuration for LaTeX -->
 <script>
-  MathJax = {
+  window.MathJax = {
     tex: {
       inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
     },
-    svg: {
-      fontCache: 'global'
+    startup: {
+      pageReady: () => {
+        return MathJax.typesetPromise().catch(err => console.log(err));
+      }
     }
   };
 </script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
