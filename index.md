@@ -11,7 +11,7 @@ Hello! I'm **Josh** (he/him), a pure mathematics PhD student based at the <a hre
 
 I work as a full-time teaching assistant at [AIMS SA](https://aims.ac.za/) for their MSc programme in Mathematical Sciences -- here I've been involved with courses ranging from Model Theory (taught by Dugald Macpherson) to Algebraic Systems Biology (taught by Matt Macauley). 
 
-$$x^2$$ hi
+$x^2$ hi
 
 ## Latest Posts
 
