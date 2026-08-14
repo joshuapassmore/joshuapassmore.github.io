@@ -9,10 +9,6 @@ Hello! I'm **Josh** (he/him), a pure mathematics PhD student based at the [Unive
 
 I work as a full-time teaching assistant at [AIMS South Africa](https://aims.ac.za/) for their MSc programme in Mathematical Sciences. I have been involved with courses ranging from Model Theory, taught by Dugald Macpherson, to Algebraic Systems Biology, taught by Matt Macauley. 
 
-My favourite mathematical object is the empty set $\emptyset$.
-
-Let $A$ be a preordered set, and denote by $D(A)$ the complete lattice of downsets of $A$. Let $\eta_A : A \to D(A)$ be the map $a \mapsto {\downarrow}a$. 
-
 If you want to get in contact with me, my email address is: josh[at]aims[dot]ac[dot]za
 
 ## Posts
