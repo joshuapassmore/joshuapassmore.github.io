@@ -1,6 +1,6 @@
 ---
 layout: default
-description: About Joshua Passmore, his research in pointfree topology, publications and teaching.
+description: About Joshua Passmore and his research in pointfree topology
 ---
 
 <img src="{{ '/photo.webp' | relative_url }}" alt="Portrait of Joshua Passmore" width="450" height="675" class="profile-photo" decoding="async" fetchpriority="high">
