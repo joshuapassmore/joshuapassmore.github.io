@@ -11,7 +11,7 @@ I work as a full-time teaching assistant at [AIMS South Africa](https://aims.ac.
 
 My favourite mathematical object is the empty set $\emptyset$.
 
-If you want to get in contact with me, my email address is *josh[at]aims[dot]ac[dot]za*
+If you want to get in contact with me, my email address is: josh[at]aims[dot]ac[dot]za
 
 <!---## Latest posts
 
