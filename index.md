@@ -15,7 +15,7 @@ Let $A$ be a preordered set, and denote by $D(A)$ the complete lattice of downse
 
 If you want to get in contact with me, my email address is: josh[at]aims[dot]ac[dot]za
 
-## Latest posts
+## Posts
 
 {% for post in site.posts limit:5 %}
 - [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%-d %B %Y" }}
