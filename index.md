@@ -11,6 +11,8 @@ I work as a full-time teaching assistant at [AIMS South Africa](https://aims.ac.
 
 My favourite mathematical object is the empty set $\emptyset$.
 
+Let $A$ be a preordered set, and denote by $D(A)$ the complete lattice of downsets of $A$. Let $\eta_A : A \to D(A)$ be the map $a \mapsto {\downarrow}a$. 
+
 If you want to get in contact with me, my email address is: josh[at]aims[dot]ac[dot]za
 
 <!---## Latest posts
