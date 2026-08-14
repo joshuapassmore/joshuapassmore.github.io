@@ -17,21 +17,19 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
+      - name: Install image tools
+        shell: bash
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes imagemagick
+
       - name: Create optimised WebP
         shell: bash
         run: |
           set -euo pipefail
-
-          if command -v magick >/dev/null 2>&1; then
-            magick photo.png -resize '675x675>' -strip -quality 82 photo.webp
-            width=$(magick identify -format '%w' photo.webp)
-            height=$(magick identify -format '%h' photo.webp)
-          else
-            convert photo.png -resize '675x675>' -strip -quality 82 photo.webp
-            width=$(identify -format '%w' photo.webp)
-            height=$(identify -format '%h' photo.webp)
-          fi
-
+          convert photo.png -resize '675x675>' -strip -quality 82 photo.webp
+          width=$(identify -format '%w' photo.webp)
+          height=$(identify -format '%h' photo.webp)
           bytes=$(stat -c '%s' photo.webp)
           echo "OPTIMISED_IMAGE width=$width height=$height bytes=$bytes"
 
