@@ -1,35 +1,22 @@
-# Jekyll configuration for GitHub Pages with Slate theme
 title: Joshua Passmore
 description: A pure mathematics PhD student exploring pointfree topology and mathematical structures
 author: Joshua Passmore
 email: josh@aims.ac.za
+lang: en-ZA
 url: https://joshuapassmore.github.io
 baseurl: ""
 
-# Theme
 theme: jekyll-theme-slate
 
-# Plugins
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-sitemap
 
-# Markdown processor
 markdown: kramdown
 kramdown:
   math_engine: mathjax
 
-# Pagination for blog posts
-paginate: 5
-paginate_path: "/blog/page:num/"
-
-# Exclude files from build
 exclude:
   - .gitignore
   - Gemfile
   - Gemfile.lock
-
-# Feed settings
-feed:
-  enabled: false

@@ -1,16 +1,12 @@
-<!-- MathJax 3 Configuration for LaTeX -->
+{% if page.math %}
 <script>
   window.MathJax = {
     tex: {
       inlineMath: [['$', '$'], ['\\(', '\\)']],
       displayMath: [['$$', '$$'], ['\\[', '\\]']],
       processEscapes: true
-    },
-    startup: {
-      pageReady: () => {
-        return MathJax.typesetPromise().catch(err => console.log(err));
-      }
     }
   };
 </script>
-<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js"></script>
+{% endif %}

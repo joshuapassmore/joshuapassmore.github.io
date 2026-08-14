@@ -1,0 +1,51 @@
+name: Optimise profile image
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/optimize-profile-image.yml
+
+permissions:
+  contents: write
+
+jobs:
+  optimise:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Create optimised WebP
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if command -v magick >/dev/null 2>&1; then
+            magick photo.png -resize '675x675>' -strip -quality 82 photo.webp
+            width=$(magick identify -format '%w' photo.webp)
+            height=$(magick identify -format '%h' photo.webp)
+          else
+            convert photo.png -resize '675x675>' -strip -quality 82 photo.webp
+            width=$(identify -format '%w' photo.webp)
+            height=$(identify -format '%h' photo.webp)
+          fi
+
+          bytes=$(stat -c '%s' photo.webp)
+          echo "OPTIMISED_IMAGE width=$width height=$height bytes=$bytes"
+
+      - name: Commit optimised image
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add photo.webp
+
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+
+          git commit -m "Optimise profile image"
+          git push origin HEAD:main

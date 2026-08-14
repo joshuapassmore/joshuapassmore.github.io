@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#project_title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+#project_title a:hover,
+#project_title a:focus {
+  text-decoration: underline;
+}
+
+.profile-photo {
+  display: block;
+  width: 225px;
+  max-width: 100%;
+  height: auto;
+}
+
+.post-meta {
+  color: #666;
+  margin-top: -0.75rem;
+}
