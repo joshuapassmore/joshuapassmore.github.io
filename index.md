@@ -9,7 +9,9 @@ Hello! I'm **Josh** (he/him), a pure mathematics PhD student based at the [Unive
 
 I work as a full-time teaching assistant at [AIMS South Africa](https://aims.ac.za/) for their MSc programme in Mathematical Sciences. I have been involved with courses ranging from Model Theory, taught by Dugald Macpherson, to Algebraic Systems Biology, taught by Matt Macauley. 
 
-My favourite mathematical object is the empty set $\emptyset$. 
+My favourite mathematical object is the empty set $\emptyset$.
+
+If you want to get in contact with me, my email address is *josh[at]aims[dot]ac[dot]za*
 
 <!---## Latest posts
 
