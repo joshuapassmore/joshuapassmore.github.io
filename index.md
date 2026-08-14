@@ -9,13 +9,13 @@ Hello! I'm **Josh** (he/him), a pure mathematics PhD student based at the [Unive
 
 I work as a full-time teaching assistant at [AIMS South Africa](https://aims.ac.za/) for its MSc programme in Mathematical Sciences. I have been involved with courses ranging from Model Theory, taught by Dugald Macpherson, to Algebraic Systems Biology, taught by Matt Macauley.
 
-## Latest posts
+<!---## Latest posts
 
 {% for post in site.posts limit:5 %}
 - [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%-d %B %Y" }}
-{% endfor %}
+{% endfor %}--->
 
-## Publications
+<!---## Publications
 
 - *The foundations of locale theory* (MSc thesis, 2025)
-- *Frames and ideals in pointfree topology* (Honours thesis, 2022)
+- *Frames and ideals in pointfree topology* (Honours thesis, 2022) --->
