@@ -9,8 +9,6 @@ Hello! I'm **Josh** (he/him), a pure mathematics PhD student based at the [Unive
 
 I work as a full-time teaching assistant at [AIMS South Africa](https://aims.ac.za/) for their MSc programme in Mathematical Sciences. I have been involved with courses ranging from Model Theory, taught by Dugald Macpherson, to Algebraic Systems Biology, taught by Matt Macauley. 
 
-If you want to get in contact with me, my email address is: joshuapassmore[at]me[dot]com
-
 ## Posts
 
 {% for post in site.posts limit:5 %}
