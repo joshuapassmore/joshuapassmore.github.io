@@ -27,7 +27,9 @@
 
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p>&copy; {{ 'now' | date: "%Y" }} {{ site.author }}</p>
+        <p>&copy; {{ 'now' | date: "%Y" }} {{ site.author }}<br>
+          <small>Website last updated: <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%-d %B %Y at %H:%M" }} SAST</time></small>
+        </p>
       </footer>
     </div>
   </body>
