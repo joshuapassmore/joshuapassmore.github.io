@@ -1,6 +1,6 @@
 # Joshua Passmore
 
-This repository contains the source for [joshuapassmore.github.io](https://joshuapassmore.github.io/), a Jekyll website hosted with GitHub Pages.
+This repository contains the source for [joshuapassmore.org](https://joshuapassmore.org/), a Jekyll website hosted with GitHub Pages.
 
 ## Local preview
 
