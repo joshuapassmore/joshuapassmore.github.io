@@ -1,0 +1,12 @@
+# Local Jekyll output and caches
+/_site/
+/.jekyll-cache/
+/.jekyll-metadata
+/.sass-cache/
+
+# Local Bundler dependencies and configuration
+/.bundle/
+/vendor/
+
+# macOS metadata
+.DS_Store

@@ -3,6 +3,14 @@
 <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}" sizes="180x180">
 <meta name="theme-color" content="#0b4689">
 
+{% comment %}
+  Detect mathematics in rendered content and headings, including content from
+  layouts and includes. Prefer harmless false positives to missing equations.
+  math: true can force loading for pages that insert mathematics with JavaScript.
+{% endcomment %}
+{% capture math_content %}{{ content }} {{ site.title }} {{ site.description }} {{ page.title }} {{ page.description }}{% endcapture %}
+{% assign math_content = math_content | downcase %}
+{% if page.math == true or site.math == true or math_content contains '$' or math_content contains '\' or math_content contains '<math' or math_content contains 'math/tex' or math_content contains '&#' or math_content contains '&dollar;' or math_content contains '&bsol;' %}
 <script>
   window.MathJax = {
     tex: {
@@ -13,3 +21,4 @@
   };
 </script>
 <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js"></script>
+{% endif %}
