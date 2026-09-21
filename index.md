@@ -23,7 +23,7 @@ As of present, I do not practice constructive mathematics, although, I rarely ma
 - **2026 -- present:** [Revisiting the localic Kuratowski-Mrówka theorem]({{ '/files/TACL_2026_slides.pdf' | relative_url }})
 - **2026 -- present:** $C$-ideals, freely generated frames, and compactness
 - **2023 -- 2025:** [The foundations of locale theory]({{ '/files/MSc_thesis.pdf' | relative_url }})
-- **2022:** Frames and ideals in pointfree topology
+- **2022:** [Frames and ideals in pointfree topology]({{ '/files/hons_thesis.pdf' | relative_url }})
 - **2020:** The shores of the general-relativistic ocean
 
 ## Work History
