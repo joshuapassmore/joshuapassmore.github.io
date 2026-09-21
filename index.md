@@ -20,7 +20,7 @@ As of present, I do not practice constructive mathematics, although, I rarely ma
 - **2018 -- 2021:** BSc Mathematics and Physics, [UCT](https://uct.ac.za)
 
 ## Research Projects
-- **2026 -- present:** Revisiting the localic Kuratowski-Mrówka theorem
+- **2026 -- present:** [Revisiting the localic Kuratowski-Mrówka theorem]({{ '/assets/TACL_2026_slides.pdf' | relative_url }})
 - **2026 -- present:** $C$-ideals, freely generated frames, and compactness
 - **2023 -- 2025:** [The foundations of locale theory]({{ '/assets/MSc_thesis.pdf' | relative_url }})
 - **2022:** Frames and ideals in pointfree topology
