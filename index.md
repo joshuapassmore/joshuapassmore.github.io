@@ -3,8 +3,6 @@ layout: default
 description: About Joshua Passmore and his research in pointfree topology
 ---
 
-<img src="{{ '/photo.webp' | relative_url }}" alt="Portrait of Joshua Passmore" width="450" height="675" class="profile-photo" decoding="async" fetchpriority="high">
-
 Hello! I'm **Josh** (he/him), a pure mathematics PhD candidate based at the [University of the Western Cape](https://www.uwc.ac.za/) (UWC) and the [African Institute for Mathematical Sciences (AIMS)](https://aims.ac.za/). My research is focused mainly on pointfree topology, which I like to view as a lattice-based approach to general topology that also draws on category theory. I completed my Master's in 2025; you can find my [thesis](https://uwcscholar.uwc.ac.za/items/74492698-1bbc-4858-b361-07f6ba42c2d3) online.
 
 On 01 October 2026 I will be joining the Department of Mathematical Sciences at [Sol Plaatje University](https://www.spu.ac.za) (SPU) as a Lecturer in Mathematics. I am very passionate about higher education in the South African context, particularly in the mathematical sciences; I believe that education can empower individuals and strengthen unity in our society.

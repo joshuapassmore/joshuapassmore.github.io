@@ -11,11 +11,14 @@
 
   <body>
     <div id="header_wrap" class="outer">
-      <header class="inner">
-        <h1 id="project_title">
-          <a href="{{ '/' | relative_url }}">{{ site.title | default: site.github.repository_name }}</a>
-        </h1>
-        <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      <header class="inner site-header">
+        <div class="header-text">
+          <h1 id="project_title">
+            <a href="{{ '/' | relative_url }}">{{ site.title | default: site.github.repository_name }}</a>
+          </h1>
+          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+        </div>
+        <img src="{{ '/photo.webp' | relative_url }}" alt="Portrait of Joshua Passmore" width="128" height="128" class="header-portrait" decoding="async" fetchpriority="high">
       </header>
     </div>
 
