@@ -1,13 +1,12 @@
 ---
 layout: default
-description: About Joshua Passmore and his research in pointfree topology
+description: Mathematics and Academia 
 ---
+Hello! I'm **Josh** (he/him), a pure mathematics PhD candidate based at the [University of the Western Cape (UWC)](https://www.uwc.ac.za/), and in affiliation with the [African Institute for Mathematical Sciences (AIMS)](https://aims.ac.za/). My research is focused mainly on pointfree topology, which I like to view as a lattice-based approach to general topology, that also draws on ideas from category theory. I completed my Master's in 2025; you can find my [thesis](https://uwcscholar.uwc.ac.za/items/74492698-1bbc-4858-b361-07f6ba42c2d3) online.
 
-Hello! I'm **Josh** (he/him), a pure mathematics PhD candidate based at the [University of the Western Cape](https://www.uwc.ac.za/) (UWC) and the [African Institute for Mathematical Sciences (AIMS)](https://aims.ac.za/). My research is focused mainly on pointfree topology, which I like to view as a lattice-based approach to general topology that also draws on category theory. I completed my Master's in 2025; you can find my [thesis](https://uwcscholar.uwc.ac.za/items/74492698-1bbc-4858-b361-07f6ba42c2d3) online.
+On 01 October 2026 I will be joining the Department of Mathematical Sciences at [Sol Plaatje University (SPU)](https://www.spu.ac.za) as a Lecturer in Mathematics. I am very passionate about higher education in the South African context, particularly in the mathematical sciences; I believe that education can empower individuals and communities, and strengthen unity in our society.
 
-On 01 October 2026 I will be joining the Department of Mathematical Sciences at [Sol Plaatje University](https://www.spu.ac.za) (SPU) as a Lecturer in Mathematics. I am very passionate about higher education in the South African context, particularly in the mathematical sciences; I believe that education can empower individuals and strengthen unity in our society.
-
-I am of the opinion that mathematics undergraduate students (_including_ applied mathematics students) should have a course on set theory and logic as early as possible in their curricula. Set theory and propositional logic should be introduced together, ideally in the first year of one's studies, with emphasis on intuition rather than axioms -- the axioms can always come later. For example, a set should be introduced as a "collection of objects" and a statement as "something that is either definitely true or definitely false". With Russell's paradox, the instructor can then motivate an axiomatic approach to set theory.
+I am of the opinion that mathematics undergraduate students (_including_ applied mathematics students) should have a course on set theory and logic as early as possible in their curricula. Set theory and propositional logic should be introduced together, ideally in the first year of one's studies, with emphasis on intuition rather than axioms -- the axioms can always come later.
 
 As of present, I do not practice constructive mathematics, although, I rarely make use of the axiom of choice. When possible, I avoid the use of excluded middle, but if all else fails, I will resort to proof by contradiction! 
 
