@@ -2,7 +2,7 @@
 layout: default
 description: Mathematics and Academia 
 ---
-Hello! I'm **Josh** (he/him), a pure mathematics PhD candidate based at the [University of the Western Cape (UWC)](https://www.uwc.ac.za/), and in affiliation with the [African Institute for Mathematical Sciences (AIMS)](https://aims.ac.za/). My research is focused mainly on pointfree topology, which I like to view as a lattice-based approach to general topology, that also draws on ideas from category theory. I completed my Master's in 2025; you can find my [thesis](https://uwcscholar.uwc.ac.za/items/74492698-1bbc-4858-b361-07f6ba42c2d3) online.
+Hello! I'm **Josh** (he/him), a pure mathematics PhD candidate based at the [University of the Western Cape (UWC)](https://www.uwc.ac.za/), in affiliation with the [African Institute for Mathematical Sciences (AIMS)](https://aims.ac.za/). My research is focused mainly on pointfree topology, which I like to view as a lattice-based approach to general topology, that also draws on ideas from category theory. I completed my Master's in 2025; you can find my [thesis](https://uwcscholar.uwc.ac.za/items/74492698-1bbc-4858-b361-07f6ba42c2d3) online.
 
 On 01 October 2026 I will be joining the Department of Mathematical Sciences at [Sol Plaatje University (SPU)](https://www.spu.ac.za) as a Lecturer in Mathematics. I am very passionate about higher education in the South African context, particularly in the mathematical sciences; I believe that education can empower individuals and communities, and strengthen unity in our society.
 
