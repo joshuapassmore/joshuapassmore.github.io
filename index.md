@@ -4,11 +4,11 @@ description: Mathematics and Academia
 ---
 Hello! I'm **Josh** (he/him), a Lecturer in Mathematics within the Department of Mathematical Sciences at [Sol Plaatje University (SPU)](https://www.spu.ac.za), and a pure mathematics PhD candidate at the [University of the Western Cape (UWC)](https://www.uwc.ac.za/). I joined SPU on 01 October 2026.
 
-My research is focused mainly on pointfree topology, which I like to view as a lattice-based approach to general topology that also draws on ideas from category theory. My broader interests include topology, category theory, algebra, and logic. I completed my Master's in 2025; you can find my [thesis](https://uwcscholar.uwc.ac.za/items/74492698-1bbc-4858-b361-07f6ba42c2d3) online.
+My research is focused mainly on [pointfree topology](https://ncatlab.org/nlab/show/locale), which I like to view as a lattice-based approach to general topology that also draws on ideas from category theory. My broader interests include topology, category theory, algebra, and logic. I completed my Master's in 2025; you can find my [thesis](https://uwcscholar.uwc.ac.za/items/74492698-1bbc-4858-b361-07f6ba42c2d3) online.
 
 I am very passionate about higher education in the South African context, particularly in the mathematical sciences; I believe that education can empower individuals and communities, and strengthen unity in our society. I enjoy sharing ideas with, and learning from, others -- through teaching and collaborative research.
 
-**On this page:** [Education](#education) · [Research](#research-projects) · [Publications and theses](#publications-and-theses) · [Work history](#work-history) · [Teaching](#teaching-experience) · [Presentations](#presentations) · [Leadership and service](#leadership-and-service) · [Awards](#awards-and-bursaries) · [Posts](#posts)
+**On this page:** [Education](#education) · [Research](#research-projects) · [Publications and Theses](#publications-and-theses) · [Work history](#work-history) · [Teaching](#teaching-experience) · [Presentations](#presentations) · [Leadership and Service](#leadership-and-service) · [Awards](#awards-and-bursaries) · [Posts](#posts)
 
 ## Education
 
@@ -25,16 +25,16 @@ I am very passionate about higher education in the South African context, partic
 - **2022:** Frames and ideals in pointfree topology, Honours research.
 - **2020:** Gravitation and general relativity, third-year physics project.
 
-### Research groups
+### Research Groups
 
-- **February – July 2026:** Member of the AIMS Research Centre, in collaboration with the Algebra and Topology research group at [AIMS South Africa](https://aims.ac.za/).
 - **2023 – present:** Member of the Topology for Tomorrow research seminar at UWC.
+- **February – July 2026:** Member of the AIMS Research Centre, in collaboration with the Algebra and Topology research group at [AIMS South Africa](https://aims.ac.za/).
 
 As of present, I do not practice constructive mathematics, although I rarely make use of the axiom of choice. Whenever possible, I avoid the use of excluded middle, but if all else fails, I will resort to proof by contradiction!
 
 ## Publications and Theses
 
-- **2026-2027:** *Revisiting the localic Kuratowski-Mrówka theorem* — to appear.
+- **2026 - 2027:** *Revisiting the localic Kuratowski-Mrówka theorem* — to appear.
 - **2025:** [*The foundations of locale theory* (PDF)]({{ '/files/MSc_thesis.pdf' | relative_url }}), MSc thesis, UWC. Also available through the [UWC repository](https://uwcscholar.uwc.ac.za/items/74492698-1bbc-4858-b361-07f6ba42c2d3).
 - **2022:** [*Frames and ideals in pointfree topology* (PDF)]({{ '/files/hons_thesis.pdf' | relative_url }}), Honours thesis, UWC.
 - **2020:** [*Exploring the shores of the general relativistic ocean* (PDF)]({{ '/files/BSc_project.pdf' | relative_url }}), third-year physics project, UCT.
