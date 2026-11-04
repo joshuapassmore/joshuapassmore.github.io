@@ -1,6 +1,6 @@
 # Joshua Passmore
 
-This repository contains the source for [joshuapassmore.org](https://joshuapassmore.org/), a Jekyll website hosted with GitHub Pages.
+This repository contains the source for [joshuapassmore.github.io](https://joshuapassmore.github.io/), a Jekyll website hosted with GitHub Pages.
 
 ## Local preview
 
@@ -15,9 +15,8 @@ Open `http://localhost:4000` in a browser.
 
 ## Publishing
 
-GitHub Pages builds and deploys changes to `main` automatically. Keep `CNAME`
-set to `joshuapassmore.org` and the `url` in `_config.yml` set to
-`https://joshuapassmore.org`.
+GitHub Pages builds and deploys changes to `main` automatically. The site URL
+is set in `_config.yml`.
 
 ## Posts and PDFs
 
