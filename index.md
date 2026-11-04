@@ -12,7 +12,7 @@ I am very passionate about higher education in the South African context, partic
 
 ## Education
 
-- **February 2026 – present:** PhD in progress, UWC. Research topic: *$C$-ideals, freely generated frames, and compactness*. (Supervised by David Holgate and Mark Sioen.)
+- **February 2026 – present:** PhD in progress, UWC. Research topic: *C-ideals, freely generated frames, and compactness*. (Supervised by David Holgate and Mark Sioen.)
 - **2023 – 2025:** MSc in Mathematical Science (*Summa Cum Laude*), UWC.
 - **2022:** BSc (Hons) in Mathematical Science, UWC.
 - **2018 – 2021:** BSc in Mathematics and Physics, [University of Cape Town (UCT)](https://uct.ac.za).
@@ -20,7 +20,7 @@ I am very passionate about higher education in the South African context, partic
 ## Research Projects
 
 - **2026 – present:** Revisiting the localic Kuratowski-Mrówka theorem. [TACL 2026 slides (PDF)]({{ '/files/TACL_2026_slides.pdf' | relative_url }}).
-- **2026 – present:** $C$-ideals, freely generated frames, and compactness.
+- **2026 – present:** *C*-ideals, freely generated frames, and compactness.
 - **2023 – 2025:** The foundations of locale theory, MSc research supervised by Prof David Holgate.
 - **2022:** Frames and ideals in pointfree topology, Honours research.
 - **2020:** Gravitation and general relativity, third-year physics project.
@@ -92,7 +92,7 @@ I also assisted with the Topology Honours module at UWC in 2023 and tutored math
 ### 2023
 
 - **06 December:** *Freely generated frames, compactness and the strong Hausdorff property for locales*, SAMS Congress, University of Johannesburg.
-- **20 October:** *Sites, $C$-ideals and freely generated frames*, Topology for Tomorrow seminar.
+- **20 October:** *Sites, C-ideals and freely generated frames*, Topology for Tomorrow seminar.
 - **30 August:** *Sublocales of open-set lattices*, Topology for Tomorrow seminar.
 - **16 June:** *From subspaces to sublocales*, Topology for Tomorrow seminar.
 - **24 February:** *The relation between topological spaces and frames*, Topology for Tomorrow seminar.
